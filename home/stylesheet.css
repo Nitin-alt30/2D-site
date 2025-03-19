@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'Visual';
+    src: url('Visual-Regular.eot');
+    src: local('Visual Regular'), local('Visual-Regular'),
+        url('Visual-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Visual-Regular.woff2') format('woff2'),
+        url('Visual-Regular.woff') format('woff'),
+        url('Visual-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Visual';
+    src: url('Visual-Bold.eot');
+    src: local('Visual Bold'), local('Visual-Bold'),
+        url('Visual-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Visual-Bold.woff2') format('woff2'),
+        url('Visual-Bold.woff') format('woff'),
+        url('Visual-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Visual';
+    src: url('Visual-Light.eot');
+    src: local('Visual Light'), local('Visual-Light'),
+        url('Visual-Light.eot?#iefix') format('embedded-opentype'),
+        url('Visual-Light.woff2') format('woff2'),
+        url('Visual-Light.woff') format('woff'),
+        url('Visual-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Visual';
+    src: url('Visual-Medium.eot');
+    src: local('Visual Medium'), local('Visual-Medium'),
+        url('Visual-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Visual-Medium.woff2') format('woff2'),
+        url('Visual-Medium.woff') format('woff'),
+        url('Visual-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Visual';
+    src: url('Visual-Semibold.eot');
+    src: local('Visual Semibold'), local('Visual-Semibold'),
+        url('Visual-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('Visual-Semibold.woff2') format('woff2'),
+        url('Visual-Semibold.woff') format('woff'),
+        url('Visual-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Visual';
+    src: url('Visual-Black.eot');
+    src: local('Visual Black'), local('Visual-Black'),
+        url('Visual-Black.eot?#iefix') format('embedded-opentype'),
+        url('Visual-Black.woff2') format('woff2'),
+        url('Visual-Black.woff') format('woff'),
+        url('Visual-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
